@@ -10,12 +10,14 @@ The project covers the complete Machine Learning workflow, including data cleani
 
 ## Dataset
 
-- Source: Flight performance dataset
-- Original Dataset: https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
-- Sample Used: 100,000 flight records
-- Target Variable:
-  - Delayed = 1 → Arrival delay > 15 minutes
-  - Delayed = 0 → Otherwise
+- **Dataset:** Flight Delay and Cancellation Data (2019–2023)_v2
+- **Source:** Kaggle
+- **Original Dataset:** https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-data-2019-2023-v2
+- **Original Size:** ~29 million flight records (the v2 package includes a 2 million-row sample file). :contentReference[oaicite:0]{index=0}
+- **Sample Used in This Project:** 100,000 flight records
+- **Target Variable:**
+  - `Delayed = 1` → Arrival delay > 15 minutes
+  - `Delayed = 0` → Otherwise
 
 ---
 
