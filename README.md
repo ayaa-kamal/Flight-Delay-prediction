@@ -81,12 +81,3 @@ The project covers the complete Machine Learning workflow, including data cleani
 - XGBoost achieved the highest Accuracy but struggled to identify delayed flights.
 
 ---
-
-
-## 💾 Saved Model
-
-The trained Logistic Regression Pipeline was saved using Joblib.
-
-```
-flight_delay_model.pkl
-```
